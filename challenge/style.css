@@ -1,0 +1,13 @@
+textarea {
+    font-size: 18px;
+}
+.counter {
+    color: black;
+}
+
+.counter.red {
+    color: red;
+}
+ul {
+    margin-top: 10px;
+}
